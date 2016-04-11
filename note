@@ -1,0 +1,4 @@
+1.wc -lwL
+2.du -ah
+3.nvidia-smi
+4.watch -n
